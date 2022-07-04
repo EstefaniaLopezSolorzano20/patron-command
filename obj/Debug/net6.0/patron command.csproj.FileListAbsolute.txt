@@ -1,0 +1,15 @@
+D:\RESPALDO NO ELIMINAR\Desktop\patron command\obj\Debug\net6.0\patron command.csproj.AssemblyReference.cache
+D:\RESPALDO NO ELIMINAR\Desktop\patron command\obj\Debug\net6.0\patron command.GeneratedMSBuildEditorConfig.editorconfig
+D:\RESPALDO NO ELIMINAR\Desktop\patron command\obj\Debug\net6.0\patron command.AssemblyInfoInputs.cache
+D:\RESPALDO NO ELIMINAR\Desktop\patron command\obj\Debug\net6.0\patron command.AssemblyInfo.cs
+D:\RESPALDO NO ELIMINAR\Desktop\patron command\obj\Debug\net6.0\patron command.csproj.CoreCompileInputs.cache
+D:\RESPALDO NO ELIMINAR\Desktop\patron command\bin\Debug\net6.0\patron command.exe
+D:\RESPALDO NO ELIMINAR\Desktop\patron command\bin\Debug\net6.0\patron command.deps.json
+D:\RESPALDO NO ELIMINAR\Desktop\patron command\bin\Debug\net6.0\patron command.runtimeconfig.json
+D:\RESPALDO NO ELIMINAR\Desktop\patron command\bin\Debug\net6.0\patron command.dll
+D:\RESPALDO NO ELIMINAR\Desktop\patron command\bin\Debug\net6.0\patron command.pdb
+D:\RESPALDO NO ELIMINAR\Desktop\patron command\obj\Debug\net6.0\patron command.dll
+D:\RESPALDO NO ELIMINAR\Desktop\patron command\obj\Debug\net6.0\refint\patron command.dll
+D:\RESPALDO NO ELIMINAR\Desktop\patron command\obj\Debug\net6.0\patron command.pdb
+D:\RESPALDO NO ELIMINAR\Desktop\patron command\obj\Debug\net6.0\patron command.genruntimeconfig.cache
+D:\RESPALDO NO ELIMINAR\Desktop\patron command\obj\Debug\net6.0\ref\patron command.dll
